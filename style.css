@@ -1,0 +1,116 @@
+body{
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+.box-sizing{
+
+}
+
+h1{
+    font-size: 50px;
+    margin-top: 20px;
+    line-height:40px;
+}
+h2{
+    font-size: 30px;
+    margin-bottom: 70px;
+}
+h4{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+p{
+    padding-bottom: 10px;
+    line-height: 25px;
+}
+#getdown-header{
+    padding-top: 100px;
+}
+#getdown{
+    padding-top: 100px;
+    margin-bottom: 20px;
+}
+#text-align{
+    text-align: center;
+}
+section{
+    height: 800px;
+    padding-bottom: 150px;
+}
+footer p{
+    text-align: center;
+    font-size: 15px ;
+}
+.header-section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    
+}
+.half-width{
+    
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+
+.name-highlight{
+    color: orangered;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange, orangered);
+    border-radius: 5px;
+    font-weight: 700;
+    padding: 10px 20px;
+    color: white;
+}
+.bigraphy-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.latest-work-section{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 500px;
+}
+.client-review-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+
+.column{
+    float: left;
+    padding: 10px;
+    width: 25%;
+
+
+}
+
+.latest-work-images{
+    text-align: center;
+    margin-left: 350px;
+    
+}
+.client-review-section{
+    text-align: center;
+    height: 500px;
+}
+.boxmodel{
+    height: 120px;
+    width: 450px;
+    margin-left: 700px;
+    margin-top: 70px;
+    padding: 20px;
+    color:white;
+    background-color: tomato;
+    border-radius: 5px;
+    text-align: center;
+}
+
